@@ -65,14 +65,16 @@ Drill-down analysis for deeper operational insights
 
 **📊 Business Impact**
 
+📊 Business Impact
+
 ✔ Improved visibility into operational performance across multiple business segments
 
-✔ Enabled faster identification of inefficiencies and bottlenecks affecting workflow efficiency
+✔ Enabled faster identification of inefficiencies and bottlenecks impacting workflow efficiency
 
-✔ Strengthened KPI-driven decision-making through interactive dashboards
+✔ Strengthened KPI-driven decision-making through real-time dashboarding
 
-✔ Established foundation for proactive operational optimization using data insights
+✔ Established foundation for proactive, data-driven operational optimization
 
 **📌 Executive Summary**
 
-📌 Executive Summary: This project demonstrates how raw operational data can be transformed into structured KPI-driven insights using Power BI, enabling a shift from reactive reporting to proactive operational optimization and data-driven decision-making.
+ This project demonstrates how operational data can be transformed into KPI-driven insights that enable a shift from reactive reporting to proactive operational optimization, improving efficiency, resource utilization, and decision-making quality.
